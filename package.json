@@ -9,5 +9,5 @@
   "author": "Alex Casillas",
   "license": "MIT",
   "main": "src/react-native-loading-dots.js",
-  "types": "src/react-native-loading-dots.d.ts",
+  "types": "src/react-native-loading-dots.d.ts"
 }
